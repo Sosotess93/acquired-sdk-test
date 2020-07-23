@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../../../Downloads/Acquired-SDK-IOS-1.0.0/Acquired_SDK_IOS/Acquired_SDK_IOS.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:">
+   </FileRef>
+</Workspace>
